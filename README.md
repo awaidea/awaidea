@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--- 再凶的男孩子，绑鞋带还不是要系蝴蝶结。---!>
+GG54OCBHXOYPOL7T
 
 <!---
 awaidea/awaidea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
