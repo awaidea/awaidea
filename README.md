@@ -17,11 +17,7 @@
 
 ### 我的动态
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" style="max-width:100vw;max-height:100vh;" width="400" height="800" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fc7.io%2Fusers%2Fec0819&theme=auto&size=100&header=true&replies=false&boosts=false&bg2=%230ae2ff&link=%23ffd500">
-  
-</iframe>
-
-> GG54OCBHXOYPOL7T
+![](https://urlscan.io/liveshot/?width=400&height=800&url=https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fc7.io%2Fusers%2Fec0819&theme=auto&size=100&header=true&replies=false&boosts=false&bg2=%230ae2ff&link=%23ffd500%22%3E)
 
 <!--- 再凶的男孩子，绑鞋带还不是要系蝴蝶结。---!>
 <!---
